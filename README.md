@@ -4,7 +4,7 @@
 ![desktopui](https://github.com/TendaiPhikiso/LuxuryIceCreamLandingPage/blob/main/IceCreamLandingPage.png)
 
 ## Summary
-Luxe cream ~ inspired by my imagination
+Luxe cream ~ inspired by my imagination & love for Ice cream YUM!!
 
 ## Design Versions 
 You can View in (PNG) for the:
